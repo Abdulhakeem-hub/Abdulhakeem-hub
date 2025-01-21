@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Abdulhakeem-hub
-- 👀 I’m interested in ... crypto 
-- 🌱 I’m currently learning ...Web3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-issahabdulhakeem212@gmail.com
-<!---
-Abdulhakeem-hub/Abdulhakeem-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Issah abdul Hakeem
+🎓 Level 400 Information Technology Student | Aspiring Software Developer
+
+💻 Skills:
+
+Programming Languages: Java, JavaScript, Python, HTML, CSS, Dart,solidity
+Frameworks & Tools: Flutter, React, Node.js, and other related technologies
+📱 Passionate about building mobile and web applications that solve real-world problems. Currently working on my final project: a guidance and counseling mobile app built with Flutter.
+
+🌱 Constantly learning and improving my skills in software development and open-source contributions.
+
+📫 Contact: [issahbadul-hakeem212@gmail.com] | www.linkedin.com/in/issah-abdul-hakeem-174077253
